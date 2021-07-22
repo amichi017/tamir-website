@@ -24,7 +24,7 @@
     "react-month-picker-input": "^1.2.3",
     "react-phone-number-input": "^2.3.14",
     "react-responsive-ui": "^0.14.140",
-    "xlsx": "^0.14.2"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
